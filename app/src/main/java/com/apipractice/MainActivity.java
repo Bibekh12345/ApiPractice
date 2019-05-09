@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
                     content += "Employee Name: "+ employee.getId()+"\n";
                     content += "Employee Salary: "+ employee.getId()+"\n";
                     content += "Employee Age: "+ employee.getId()+"\n";
+                    content += "------------------------"+ "\n";
 
                     tvdata.append(content);
                 }
